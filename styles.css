@@ -3,3 +3,10 @@
   text-align: justify;
   line-height: 1.8rem;
 }
+.f-evento{
+  box-sizing: border-box;
+  background-size: cover;
+  background-image: url(./images/event/fondo-event.jpg);
+  background-repeat: no-repeat;
+  height: 25rem;
+}
