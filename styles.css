@@ -3,6 +3,7 @@
   text-align: justify;
   line-height: 1.8rem;
 }
+/* seccion eventos noticias */
 .f-evento{
   box-sizing: border-box;
   background-size: cover;
@@ -10,7 +11,17 @@
   background-repeat: no-repeat;
   height: 25rem;
 }
+/* fin seccion eventos noticias */
 .separador {
   width: 10%;
   display: inline-block;
+}
+/* seccion nuestra historia */
+.fotodir{
+  height: 16.5rem;
+  object-fit: contain;
+}
+/* fin seccion nuestra historia */
+.colorwtitle{
+  color: white;
 }
