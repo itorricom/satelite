@@ -3,6 +3,9 @@
   text-align: justify;
   line-height: 1.8rem;
 }
+li>a{
+  font-size: 1.1rem;
+}
 /* seccion eventos noticias */
 .f-evento{
   box-sizing: border-box;
