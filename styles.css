@@ -28,3 +28,9 @@ li>a{
 .colorwtitle{
   color: white;
 }
+body {
+  padding-top: 140px;
+}
+.logo{
+  height: 60px;
+}
