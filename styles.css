@@ -28,3 +28,33 @@ li>a{
 .colorwtitle{
   color: white;
 }
+
+/*pagina noticias*/
+.articles{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.article{
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 2rem;
+}
+.article>span{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.img-article{
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+.article-body{
+  padding: 20px;
+}
+.article-body>p{
+  font-size: 1.7rem;
+  text-align: justify;
+}
+.title-article{
+  margin-top: 0;
+  font-family: 'Poppins';
+}
