@@ -30,6 +30,10 @@ li>a{
 }
 
 /*pagina noticias*/
+.bg-jumbotron{
+  
+}
+
 .articles{
   margin-top: 20px;
   margin-bottom: 20px;
@@ -57,4 +61,12 @@ li>a{
 .title-article{
   margin-top: 0;
   font-family: 'Poppins';
+}
+.aside{
+  padding: 20px;
+}
+
+.nav>li>a{
+  color:#2c2c2c;
+  font-size: medium;
 }
