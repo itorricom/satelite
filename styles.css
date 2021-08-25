@@ -28,7 +28,6 @@ li>a{
 .colorwtitle{
   color: white;
 }
-<<<<<<< HEAD
 
 /*pagina noticias*/
 
@@ -67,11 +66,4 @@ li>a{
 .nav>li>a{
   color:#2c2c2c;
   font-size: medium;
-=======
-body {
-  padding-top: 140px;
-}
-.logo{
-  height: 60px;
->>>>>>> 7eb9d8e68bfe0316cf2cf0f21778e4c4b8e4e241
 }
